@@ -1,0 +1,34 @@
+pasWOR!1: Password not accepted  
+Password must be at least 9 characters in length. 
+Password must contain at least 1 special character. 
+
+pssWRD23!: Password not accepted  
+Password must contain at least 1 special character. 
+
+PASSWORD1: Password not accepted  
+Password must contain at least 3 lower case character. 
+
+password!: Password not accepted  
+Password must contain at least 3 upper case character. 
+Password must contain only 1 digit. 
+Password must contain at least 1 special character. 
+
+PsW0D$!#: Password not accepted  
+Password must be at least 9 characters in length. 
+Password must contain at least 1 special character. 
+
+12passWORD!: Password not accepted  
+Password must contain at least 1 special character. 
+
+1234567890: Password not accepted  
+Password must contain at least 3 lower case character. 
+Password must contain at least 3 upper case character. 
+
+Gr8Password: Password not accepted  
+
+: Password not accepted  
+Password must be at least 9 characters in length. 
+Password must contain at least 3 lower case character. 
+Password must contain at least 3 upper case character. 
+Password must contain only 1 digit. 
+
